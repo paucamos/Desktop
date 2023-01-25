@@ -1,6 +1,7 @@
 # Find neighbors and calculate mean
 
-Example:
+Example:  
+
 ![image](https://user-images.githubusercontent.com/45793792/214689565-1754feee-abc6-4a71-97ef-3291067adcf8.png)
 
 Input:
